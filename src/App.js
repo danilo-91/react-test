@@ -35,7 +35,7 @@ function OrderedList() {
 function Footer() {
 return (
   <footer>
-    &copy; 2022 Danilo Development. Todos los rights reserved.
+    <small>&copy; 2022 Danilo Development. Todos los rights reserved.</small>
   </footer>
 )
 }
